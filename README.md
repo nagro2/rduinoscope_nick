@@ -3,9 +3,9 @@
 A fork of the terrific rDuinoscope telescope control project originally created by Dessislav Gouzgounov, with numerous additions and enhancements.
 This project also includes code from other forks of rDuinoscope including by giacu92.
 
-*Differences between this version and the original
- *- Object filtering screen allows filtering of objects by object type, brightness, and angle in sky
- *- object selection screens can show magnitude and size of each object. This can be turned on or off via boolean variables in the code
+*Differences between this version and the original  
+ *- Object filtering screen allows filtering of objects by object type, brightness, and angle in sky  
+ *- object selection screens can show magnitude and size of each object. This can be turned on or off via boolean variables in the code  
  *- adjusts for USA and Europe DST / Summer, use DST_mode to set desired mode.
  *- sets time from gps clock if fix obtainbed, otherwise RTC module
  *- gps skip button loads last valid gps fix from SD card
