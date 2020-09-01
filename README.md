@@ -18,4 +18,4 @@ This project also includes code from other forks of rDuinoscope including by gia
  *- Some Arduino pin definitions are different from the main version  
  *- Sound 3 notes at startup plus a warble if any startup errors  
    
- Some time ago I stopped developing and using this code. The code runs well but may still have bugs. I am posting it in hopes that it will be helpful to others.
+ I used this version of rDuinoscope for around a year and had a lot of great observing sessions. However since then I stopped developing and using this code. The code runs well but may still have bugs. I am posting it in hopes that it will be helpful to others.
